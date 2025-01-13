@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "llm_context"
+  site-url: "https://radekosmulski.github.io/llm_context"
+  description: "Generate markdown context for LLMs from websites."
+  repo-branch: main
+  repo-url: "https://github.com/radekosmulski/llm_context"
